@@ -1,4 +1,4 @@
-This is just a test. Though this is a simple tic-tac-toe game.
+This is just a test. Though this is a simple tic-tac-toe game (Terminal-based).
 
 If using g++:
 ```bash
